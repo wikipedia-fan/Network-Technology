@@ -2,3 +2,7 @@ QOS:Quality Of Service is the description or measurement（度量） of the over
 
 In the field\(领域；运动场\) of computer networking and other packet-switched（分组交换的） telecommunication networks（电信网络）,quality of service refers to（适用于） traffic prioritization（传输优先级） and resource reservation（资源预留） control mechanisms（管理机制） rather than（而不是） the achieved（实现的） service quality.Quality of service is this ability to provide different priority to（for sth/sb 提供 sth ） different applications（应用程序）,users,or data flows（数据流）,or to guarantee a certain level of performance to a data flow（提供数据流有一定level的性能）.
 
+Quality of service is particularly important for the transport of traffic\(通信量的传输\) with special requirements.In particular,developer（开发者） have introduced（引入，提出） Voice over IP technology to allow computer networks to become as userful as\(和···一样\) telephone nerworks for audio conversations（音频通话）,as well as（而且） supporting new applications with even（及时） stricter（严格的） nerwork performance requirements.
+
+
+
