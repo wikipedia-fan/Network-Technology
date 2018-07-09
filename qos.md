@@ -4,5 +4,23 @@ In the field\(领域；运动场\) of computer networking and other packet-switc
 
 Quality of service is particularly important for the transport of traffic\(通信量的传输\) with special requirements.In particular,developer（开发者） have introduced（引入，提出） Voice over IP technology to allow computer networks to become as userful as\(和···一样\) telephone nerworks for audio conversations（音频通话）,as well as（而且） supporting new applications with even（及时） stricter（严格的） nerwork performance requirements.
 
+Quality of serveice technology:data flow accountint\(about h3c switch S10500\):
+
+> * #### **acl number 3000**
+>
+> * #### **rule 0 permit ip source 1.1.1.1 destination 2.2.2.2 **
+> * #### **traffic classifier classifier\_1**
+> * #### **if-match acl 3000**
+> * #### **traffic behavior behavior\_1**
+> * #### **accuounting packet **
+> * #### **qos policy QOS\_1**
+> * #### ** classifier classifier**_**1 behavior behavior\_1**_
+> * #### **inter g9/0/1 **
+> * #### **qos apply policy  QOS\_1 inbound **
+> * #### 
+> * #### **display qos policy inter g9/0/1**
+
+
+
 
 
