@@ -19,5 +19,7 @@ Quality of serveice technology:data flow accounting\(about h3c switch S10500\):
 > * #### 
 > * #### **display qos policy inter g9/0/1**
 
+####  
 
+In the field of telephony,quality of service was defined by the ITU in 1994.Quality of service conprises requirements on all the aspects of a connection.such as service response time,loss,signal-to-noise ratio,crosstalk,echo,interrupts,frequency response,loudnesslevels,and so on.A subset of telenology QoS is grade of service requirements,which comprises aspect
 
