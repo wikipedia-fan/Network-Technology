@@ -30,11 +30,13 @@ interface gigabitethernet 1/0/1
 
 qos apply policy policy inbound
 
-
-
 H3C光衰检测命令：
 
 display transceiver interface GigabitEthernet 1/1/1   //查看光模块的参数
 
 display transceiver diagnosis interface GigabitEthernet 1/1/1   //查看光模块的收发光功率值。
+
+
+
+附上光功率值查询链接：http://www.h3c.com/cn/d\_201806/1088942\_30005\_0.htm\#\_Toc517271802
 
