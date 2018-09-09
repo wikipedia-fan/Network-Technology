@@ -18,11 +18,11 @@ if-match acl 3005
 
 traffic behavior behavior\_1
 
-accounting 
+accounting
 
 定义策略：
 
-qos policy policy 
+qos policy policy
 
 classifier classifier\_1 behavior behavior\_1
 
@@ -32,5 +32,9 @@ qos apply policy policy inbound
 
 
 
+H3C光衰检测命令：
 
+display transceiver interface GigabitEthernet 1/1/1   //查看光模块的参数
+
+display transceiver diagnosis interface GigabitEthernet 1/1/1   //查看光模块的收发光功率值。
 
